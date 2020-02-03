@@ -2,12 +2,13 @@
 
 ## React Graphql Apollo client
 
-you can run the project by cloning it and : 
+You can run the project by cloning it and executing the following commands : 
 
-### `yarn `
-to install node modules 
+### `yarn ` or `npm install `
 
-### `yarn start `
+To install node modules 
 
-it runs the app in  [http://localhost:3000](http://localhost:3000). 
+### `yarn start ` or ` npm start`
+
+It will be opened on  [http://localhost:3000](http://localhost:3000). 
 
