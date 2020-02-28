@@ -10,5 +10,5 @@ To install node modules
 
 ### `yarn start ` or ` npm start`
 
-It will be opened on  [http://localhost:3000](http://localhost:3000). 
+==> [http://localhost:3000](http://localhost:3000). 
 
